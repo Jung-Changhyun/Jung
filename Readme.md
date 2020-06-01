@@ -2,10 +2,76 @@
 
 ## 1주차 과제 (2020.05.21)
 
-1주차 과제(2020.05.24)
-인공지능의 대표적인 기술은 언어, 음성, 이미지, 자율주행이 있습니다. 이들은 현재 우리 생활에서도 자주 사용됩니다. 대표적으로 언어는 우리가 생활하는데, 있어서 다른 나라 사람들과 소통 할 때, 주로 번역을 정교하게 해주는 기술로 사용됩니다. 다음으로 음성은 아이폰의 시리와 또 특정 회사의 아리라는 블루투스 스피커를 통해서 인간의 음성을 듣고 대화를 통해 인간이 요구하는 일들을 수행해줍니다. 다음으로 이미지는 사물을 보고 저장되어있는 이미지로 판별하여 일상생활에 편리함을 줍니다. 한 예시로 우리나라 대기업 중 한 편의점은 카운터에 사람이 없어도 기계에 제품을 올리면 사물과 이미지를 판별하여 제품을 결제하는 시스템을 도입한 사례가 있습니다. 마지막으로 자율주행은 운전자의 주행성향에 따라 운행을 함으로서 이동수단의 편리함을 증진 시켜줍니다. 이 중에서 저는 자율주행의 기술이 흥미가 있었고, 자율주행에 음성과 이미지 기술을 도입해 좀 더 효율적인 자율 주행을 만들어 보고 싶은게 저의 학습 목표입니다.
-
-참고자료 주소 : 이미지
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "1주차과제.ipynb",
+      "provenance": [],
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyNo9n7KsOMf42rq4K9QQBC8",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Jung-Changhyun/Jung/blob/master/1%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "qRlwAnPivl9t",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        ""
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "CdPHu_QCvrIF",
+        "colab_type": "text"
+      },
+      "source": [
+        "### 1주차 과제(2020.05.24)\n",
+        "인공지능의 대표적인 기술은 언어, 음성, 이미지, 자율주행이 있습니다.\n",
+        "이들은 현재 우리 생활에서도 자주 사용됩니다. 대표적으로 언어는\n",
+        "우리가 생활하는데, 있어서 다른 나라 사람들과 소통 할 때, 주로 번역을\n",
+        "정교하게 해주는 기술로 사용됩니다. 다음으로 음성은 아이폰의 시리와\n",
+        "또 특정 회사의 아리라는 블루투스 스피커를 통해서 인간의 음성을 듣고 \n",
+        "대화를 통해 인간이 요구하는 일들을 수행해줍니다. 다음으로 이미지는\n",
+        "사물을 보고 저장되어있는 이미지로 판별하여 일상생활에 편리함을 줍니다. \n",
+        "한 예시로 우리나라 대기업 중 한 편의점은 카운터에 사람이 없어도 기계에 \n",
+        "제품을 올리면 사물과 이미지를 판별하여 제품을 결제하는 시스템을 도입한 \n",
+        "사례가 있습니다. 마지막으로 자율주행은 운전자의 주행성향에 따라 운행을\n",
+        "함으로서 이동수단의 편리함을 증진 시켜줍니다. 이 중에서 저는 자율주행의\n",
+        "기술이 흥미가 있었고, 자율주행에 음성과 이미지 기술을 도입해 좀 더 효율적인\n",
+        "자율 주행을 만들어 보고 싶은게 저의 학습 목표입니다.\n",
+        "\n",
+        "\n",
+        "참고자료 주소 : [이미지][naverlink]\n",
+        "\n",
+        "[naverlink]: https://post.naver.com/viewer/postView.nhn?volumeNo=17875379&memberNo=39046504 \"Go naver.com\""
+      ]
+    }
+  ]
+}
 ## 2주차 과제 (2020.05.31)
 2주차 과제
 >
