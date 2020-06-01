@@ -24,12 +24,12 @@
 
 In [0]:
 # 주어진 변수(a, b, c) 직접 수정불가
-a = 'str'
+```a = 'str'
 b = 123
 c = True
 
 
-print(a,b,c)
+print(a,b,c)```
 str 123 True
 02번 문제 (for문)
 다음 변수 num_list에 있는 요소를 모두 더한 값을 for문을 활용하여 변수 answer에 저장하고 그 값을 출력하세요.
